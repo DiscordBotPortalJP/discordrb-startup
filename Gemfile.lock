@@ -25,8 +25,8 @@ GEM
     netrc (0.11.0)
     opus-ruby (1.0.1)
       ffi
-    parallel (1.18.0)
-    parser (2.6.5.0)
+    parallel (1.19.1)
+    parser (2.7.0.2)
       ast (~> 2.4.0)
     rainbow (3.0.0)
     rbnacl (3.4.0)
@@ -36,10 +36,10 @@ GEM
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 4.0)
       netrc (~> 0.8)
-    rubocop (0.76.0)
+    rubocop (0.79.0)
       jaro_winkler (~> 1.5.1)
       parallel (~> 1.10)
-      parser (>= 2.6)
+      parser (>= 2.7.0.1)
       rainbow (>= 2.2.2, < 4.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 1.4.0, < 1.7)
@@ -47,7 +47,7 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.6)
-    unicode-display_width (1.6.0)
+    unicode-display_width (1.6.1)
     websocket (1.2.8)
     websocket-client-simple (0.3.0)
       event_emitter
